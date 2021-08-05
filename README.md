@@ -1,4 +1,4 @@
-# FaceMaskDetection
+# Face Mask Detection
 The detection of face mask in a still image, using only image processing methods (no ML)
 
 All images used provided by my Image Processing course's Professor
@@ -19,3 +19,5 @@ The part of the mask is then converted to binary, and the blobs are removed usin
 
 Lastly, a bounding box is drawn over the leftover part, on the original image itself.
 ![image](https://user-images.githubusercontent.com/68658710/128357610-086f27f4-b3fe-4cde-ae02-9173ae89e871.png)
+
+More Output Result can be seen in Step.docx
